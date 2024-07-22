@@ -1,3 +1,3 @@
-dic = {"key": "valor"}
+dic = {"key": "valor", "key_2": "valor_2"}
 
-print(dic.get("key_2", "SIN VALOR"))
+print(dic.values())
